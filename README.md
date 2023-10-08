@@ -24,7 +24,7 @@
 <!-- Início da seção "Principais projetos" -->
 <h2>💡 Primeiro projeto: </h2>
 <ul>
-    <a href="https://postimg.cc/VdkZj55K" target="_blank">
+    <a href="https://zjuliano.github.io/Projeto-Anna-Bella/campanhas-publicitarias.html" target="_blank">
         <img src="https://i.postimg.cc/BQTWfK3f/image.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
     </a>
     <br>
@@ -37,8 +37,9 @@
 </ul>
 <!-- Fim da seção "Principais projetos" -->
 
-
 <!-- Início da seção "Contato" -->
+<br>
+<br>
 <h2>🌐 Contato: </h2>
 <p>
 <a href="https://discord.gg/ncZUjPgfuB"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height=30> </a>
