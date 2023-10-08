@@ -16,19 +16,20 @@
 
 
 <h2>💡 Primeiro projeto: </h2>
-<ul>
-    <a href="https://zjuliano.github.io/Projeto-Anna-Bella/campanhas-publicitarias.html" target="_blank">
-        <img src="https://i.postimg.cc/BQTWfK3f/image.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
-    </a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</ul>
-
+<p>
+    <ul>
+        <a href="https://zjuliano.github.io/Projeto-Anna-Bella/campanhas-publicitarias.html" target="_blank">
+            <img src="https://i.postimg.cc/BQTWfK3f/image.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
+        </a>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </ul>
+</p>
 
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contato: </h2>
