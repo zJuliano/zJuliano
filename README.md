@@ -37,6 +37,7 @@
 </ul>
 <!-- Fim da seção "Principais projetos" -->
 
+
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contato: </h2>
 <p>
