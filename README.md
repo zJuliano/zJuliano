@@ -37,8 +37,8 @@
 </ul>
 <!-- Fim da seção "Principais projetos" -->
 
+
 <!-- Início da seção "Contato" -->
-<br>
 <h2>🌐 Contato: </h2>
 <p>
 <a href="https://discord.gg/ncZUjPgfuB"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height=30> </a>
