@@ -19,7 +19,7 @@
 <p>
     <ul>
         <a href="https://zjuliano.github.io/Projeto-Anna-Bella/campanhas-publicitarias.html" target="_blank">
-            <img src="https://i.postimg.cc/BQTWfK3f/image.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
+            <img src="https://i.postimg.cc/BQTWfK3f/image.png" min-width="300px" max-width="300px" width="300px" align="left" alt="Projeto 1">
         </a>
         <br>
         <br>
