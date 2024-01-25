@@ -7,7 +7,7 @@
 <p align="left">📚 Atualmente, estou estudando <strong>Desenvolvimento Web</strong> pela <strong><a href="https://github.com/zJuliano#-ol%C3%A1-que-bom-ver-voc%C3%AA-por-aqui" target="_blank">Udemy</a></strong>.</p>
 <p align="left">🚀 Meu objetivo é continuar a minha jornada de aprendizado na área de desenvolvimento web, aprofundando-me cada vez mais nas linguagens e adquirindo as habilidades necessárias para criar websites de alta qualidade no futuro.</p>
 
-<h2>💻 Habilidades em aprendizado: </h2>
+<h2>💻 Habilidades</h2>
 <p>
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=30/> 
 <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=30/> 
