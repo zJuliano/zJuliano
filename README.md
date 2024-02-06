@@ -15,9 +15,3 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=30/>
 </p>
 
-<h2>🌐 Contato: </h2>
-<p>
-<a href="https://discord.gg/ncZUjPgfuB"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height=30> </a>
-<a href="https://github.com/zJuliano" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" height=30 /></a>
-</p>
-
