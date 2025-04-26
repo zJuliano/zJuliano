@@ -3,9 +3,9 @@
 
 <h2>👾 Sobre mim: </h2>
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<p align="left">🌎 Eu me chamo Juliano, tenho 18 anos e sou <strong>estudante</strong> na área da programação.</p>
-<p align="left">📚 Atualmente, estou estudando <strong>Desenvolvimento Web</strong>.</p>
-<p align="left">🚀 Meu objetivo é continuar a minha jornada de aprendizado na área de desenvolvimento web, aprofundando-me cada vez mais nas linguagens e adquirindo as habilidades necessárias para criar websites de alta qualidade no futuro.</p>
+<p align="left">🌎 Eu me chamo Juliano, tenho 17 anos e sou <strong>estudante</strong> na área da programação</p>
+<p align="left">📚 Atualmente, estou estudando <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+<p align="left">🚀 Meu objetivo é continuar minha jornada de aprendizado na área de Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em linguagens de programação e adquirindo as habilidades necessárias para desenvolver sistemas e aplicações de alta qualidade no futuro.</p>
 
 <h2>💻 Habilidades</h2>
 <p>
