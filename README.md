@@ -24,7 +24,7 @@ Aqui você vai encontrar meus projetos, estudos e experimentos na área de progr
 ---
 
 ## 📊 Estatísticas do GitHub
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJuliano&show_icons=true&theme=radical)
 
 ---
 
