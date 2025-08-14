@@ -26,7 +26,7 @@ Aqui você encontra meus estudos, projetos e experimentos na área de programaç
 ---
 
 ## 📊 Estatísticas do GitHub
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJuliano&show_icons=true&theme=tokyonight)
 
 ---
 
