@@ -9,7 +9,7 @@ Aqui você encontra meus estudos, projetos e experimentos na área de programaç
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
 - 🌎 Moro em **Sorocaba - SP**, Brasil  
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela faculdade **Uninter**  
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na faculdade **Uninter**  
 - 💻 Foco na **carreira Full Stack**, estudando tanto back-end quanto front-end  
 - 🚀 Meu objetivo é desenvolver sistemas e aplicações robustas, escaláveis e de alta qualidade  
 - 📚 Sempre buscando aprender novas linguagens, frameworks e boas práticas  
